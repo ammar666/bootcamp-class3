@@ -5,7 +5,7 @@ function App() {
   return (
     <div >
       <h1>HELLO WORLD</h1>
-      <Child dishname = "Palao" Sweet = "Cake" />
+      <Child dishname = "Karahi" Sweet = "Cake" />
       <hr />
       <Child dishname = "biryani" Sweet = "halwa" />
     </div>
