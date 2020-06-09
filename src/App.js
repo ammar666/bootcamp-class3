@@ -1,6 +1,6 @@
 import React from 'react';
 import Child from './child.js';
-div {text-align: center;}
+
 function App() {
   return (
     <div >
